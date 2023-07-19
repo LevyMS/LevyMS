@@ -3,7 +3,6 @@
 - 😀 Prounouns: He/Him
 - 🌱 Musical productor that just started learning Front-End
 - 🇧🇷 Brazilian
-- 💌 My Discord: levyms
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LevyMS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
