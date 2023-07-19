@@ -12,7 +12,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyMS&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
 
-### All my media
+### All my media:
 
 <div>
   
