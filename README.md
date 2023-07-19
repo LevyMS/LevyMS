@@ -16,7 +16,7 @@
 
 <div>
   
-  <a href="https://steamcommunity.com/id/LZEXVCYY/" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /> Steam (Yeah, i have VAC)</a>
+  <a href="https://steamcommunity.com/id/LZEXVCYY/" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /> Steam (Yeah, i'm VAC banned)</a>
   <br>
   <a href="https://twitter.com/levyms2361" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /> Twitter</a>
     <br>
