@@ -19,3 +19,5 @@
   <a href = "mailto:enzolvms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tqdoq5wmn5kq34sini3p3xnhr4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tqdoq5wmn5kq34sini3p3xnhr4&redirect=true)
