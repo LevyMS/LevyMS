@@ -12,11 +12,14 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyMS&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
 
-### My social media
+### All my media
 
-<div> 
-  <a href="https://www.youtube.com/channel/UCEw3jo2DjwkKXbGyY2jeOjw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:enzolvms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+  
+  <a href="https://steamcommunity.com/id/LZEXVCYY/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" />yeah, i have VAC</a>
+  <a href="https://twitter.com/levyms2361" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+  <a href="https://www.instagram.com/levyms._/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
+  <a href="https://www.youtube.com/channel/UCEw3jo2DjwkKXbGyY2jeOjw" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
   
 </div>
 
